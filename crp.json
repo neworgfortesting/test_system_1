@@ -1,0 +1,11 @@
+{
+  "name" : "test_system_1",
+  "cloneable" : true,
+  "externalId" : "6488781e432ff46f47a2cd4d",
+  "nicCount" : 0,
+  "dockerImageName" : "",
+  "variables" : [ ],
+  "systemTypes" : [ "ANDROID" ],
+  "type" : "SYSTEM",
+  "version" : 1
+}
